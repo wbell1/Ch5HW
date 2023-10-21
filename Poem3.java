@@ -1,4 +1,9 @@
-package CH5;
+/**
+ *Main method for CH%HW Q 3
+ * 
+ * @author Walker Bell
+ *
+ */package CH5;
 
 import java.io.File;
 import java.io.IOException;
