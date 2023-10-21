@@ -1,3 +1,10 @@
+/**
+ * Given code for Q2
+ * 
+ * @author Walker Bell
+ *
+ */
+
 package CH5;
 
 import java.io.FileWriter;
