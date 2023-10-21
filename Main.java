@@ -1,3 +1,10 @@
+/**
+ *Main method for CH%HW Q 1
+ * 
+ * @author Walker Bell
+ *
+ */
+
 package CH5;
 
 import java.io.File;
